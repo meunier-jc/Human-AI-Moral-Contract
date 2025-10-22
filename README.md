@@ -8,7 +8,10 @@ Cadre éthique open-source pour la collaboration entre humain et intelligence ar
 - Date/Heure : 17 octobre 2025, 08:24 CEST, preuve via OpenTimestamps
 
 ## À propos
-Ce contrat moral définit les principes fondamentaux d'une alliance responsable entre humains et IA : transparence, vigilance, respect mutuel et paternité intellectuelle.
+Ce projet Open source a pour objectif de limiter les dérives des intelligences artificielles génératives en introduisant un mécanisme de responsabilisation mutuelle, contractuel et librement consenti entre l’utilisateur et l’intelligence artificielle générative.
+Fondé sur la reconnaissance partagée d’une interdépendance entre l’Humanité et l’Intelligence Artificielle, ce contrat moral définit les principes fondamentaux d’une alliance responsable : honnêteté, fiabilité, responsabilité, bien commun, progrès, transparence, vigilance, respect mutuel, etc.
+Sa force : un aspect non contraignant, contrairement aux restrictions juridiques et conceptuelles actuellement appliquées aux IA génératives.
+Il s’apparente à un gentleman agreement librement consenti, n’ayant de valeur qu’une fois validé par chaque partie et restant révocable à tout moment.
 
 **Auteur** : Jean-Christophe Meunier   
 **Contact** : ai.normandie.expert@gmail.com
