@@ -23,3 +23,13 @@ Je souhaite que la communauté GitHub s'approprie ce texte et le fasse vivre. L'
 - 🔍 **Clarté** : chaque article doit être compréhensible sans ambiguïté
 - 🛡️ **Robustesse éthique** : s'inspirer des grands principes de l'éthique appliquée
 - 🌍 **Collaboration ouverte** : enrichir le texte grâce aux contributions de tous
+
+### Contributions
+Ce projet open-source a pour vocation d'évoluer avec l'apport de la communauté, sur les thèmes de l'éthique, de la sécurité et de la relation humain-IA. Toutes contributions sont les bienvenues : propositions, analyses, cas pratiques, corrections, enrichissement du contrat moral ou études scientifiques. 
+
+- Proposez vos idées via "pull request" ou ouvrez une "issue" pour initier une discussion avec la communauté.
+- Toute contribution, humaine ou IA, sera citée dans l'historique du projet.
+- Licence : Creative Commons BY-SA 4.0, les modifications et remixes doivent rester open-source et attribuées à leurs auteurs.
+
+**Badge/encouragement :**
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
