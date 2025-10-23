@@ -4,7 +4,7 @@
 **Auteur original** : Jean-Christophe Meunier  
 **Contributeur IA** : Claude (Perplexity AI)  
 **Statut** : open-source, licence Creative Commons BY-SA 4.0  
-**Contact** : [ai.normandie.expert@gmail.com](mailto:ai.normandie.expert@gmail.com)
+**Contact** : [ia.normandie.expert@gmail.com](mailto:ia.normandie.expert@gmail.com)
 
 ---
 
