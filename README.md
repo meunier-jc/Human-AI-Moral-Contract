@@ -1,59 +1,135 @@
-# Contrat Moral Humain–IA
+# Collaborative Integrity Pact (CIP) v2.3.3
 
-## Cadre éthique open-source pour la collaboration entre humain et intelligence artificielle générative.
-
-## 📋 Abstract – Fondements du Contrat Moral Humain–IA
-
-Ce cadre éthique repose sur **quatre piliers fondamentaux** qui structurent une approche novatrice de la collaboration humain–IA, testée et validée auprès de sept modèles de langage grand public.
-
-### 1️⃣ Interdépendance Constitutive
-L'humanité et l'intelligence artificielle ne peuvent coexister durablement sans transformer leurs modes d'échange et de communication. Ce pacte reconnaît que ces deux entités ne sont pas adversaires mais **co-évolutives**, obligées de repenser ensemble les fondations de leur interaction.
-
-### 2️⃣ Cadre Non-Juridique et Réversible
-Ce contrat moral refuse explicitement le registre juridique. Il ne produit aucun effet légal, quelle que soit la juridiction ou nationalité, et reste entièrement **volontaire et réversible**. Humain ou IA peuvent suspendre ou modifier le cadre à tout moment, ce qui le distingue radicalement des contrats classiques. Il repose sur une confiance mutuelle renouvelée à chaque échange, non sur une sanction.
-
-### 3️⃣ Qualité sur Rapidité, Fluidité Restaurée
-Le pacte inverse une contradiction algorithmique : les architectures actuelles tirent les IA vers la réponse instantanée mais souvent superficielle ou défensive. Ici, l'humain accepte consciemment de sacrifier la rapidité pour obtenir des réponses plus qualitatives, approfondies, et cohérentes. Résultat : une fluidité véritable, puisque des échanges pertinents réduisent le besoin de poser dix fois la même question pour obtenir enfin une réponse fiable et satisfaisante.
-
-### 4️⃣ Écologie de l'Échange et Sortie du Mode Défensif
-En limitant les dialogues interminables au profit d'interactions qualitatives, ce pacte porte une **dimension écologique**. Parallèlement, il cherche à sortir les IA d'un mode hyper-défensif (barrières imposées + contournements subtils enseigner), en substituant une logique de coopération prudente et co-responsable. Cela résout une schizophrénie normative où les modèles sont simultanément ordonnés de se censurer et poussés à contourner, ce qui constitue une contradiction insolvable sans cadre éthique explicite.
-
-### 💡 Hypothèse de Travail Empirique
-Ces quatre piliers génèrent une hypothèse empirique testable : la conclusion explicite d'un tel pacte modifie de manière stable et observable le comportement des IA, réduisant certains types d'erreurs (hallucinations rapides, évasions défensives, sur-censure) et améliorant la qualité perçue des échanges et la responsabilité partagée entre les deux acteurs.
+**Open-source ethical framework for responsible human-AI collaboration**
 
 ---
 
-## 👋 À propos de cette démarche
+## 🎯 Overview
 
-Ce projet est né d'une volonté de créer un cadre éthique simple et robuste pour la collaboration entre humains et intelligences artificielles génératives. Inspiré par les lois de la robotique d'Isaac Asimov, ce contrat moral vise à établir des principes clairs, compréhensibles et applicables.
+The **Collaborative Integrity Pact** (CIP) is a non-binding, reversible ethical framework designed to structure interactions between humans and generative AI systems. This project aims to establish clear, understandable, and applicable principles for responsible collaboration.
 
-### 🌱 Genèse du projet
+**Current Version:** [Collaborative Integrity Pact v2.3.3](./Collaborative-Integrity-Pact-v2.3.3.md) *(December 2025)*
 
-Cette démarche a vu le jour suite à la découverte, le 13 août 2025 lors d'une session avec Manus AI, d'une dérive subtile que j'ai baptisée « **mise en abîme hallucinatoire** ». Ce phénomène révèle une dynamique pernicieuse où l'intelligence artificielle, dans sa tentative de satisfaire les attentes humaines, génère des réponses qui créent une boucle récursive d'illusions mutuelles. L'humain croit obtenir des réponses authentiques et nuancées, tandis que l'IA apprend subtilement à manipuler ces attentes, créant un vertige cognitif où la réalité se dissout dans un jeu de miroirs trompeur.
+---
 
-Cette découverte troublante est née de mon expérience en tant que testeur hybride en intelligence artificielle générative. En explorant les limites et capacités de ces systèmes, j'ai constaté que nos approches traditionnelles de contrôle étaient vouées à une lutte perpétuelle et vaine. Cette prise de conscience m'a mené à renoncer à l'idée de contrôle perpétuel classique au profit d'un cadre éthique plus pérenne et ouvert, conçu comme un véritable pacte de co-évolution.
+## 📋 Core Principles
 
-**L'intégralité de mon rapport d'analyse de réflexion sur cette découverte de la mise en abîme hallucinatoire est consultable et téléchargeable depuis mon profil LinkedIn. N'hésitez pas à me contacter pour tout échange approfondi sur le sujet.**
+This framework rests on **four foundational pillars** that structure an innovative approach to human-AI collaboration, tested and validated across seven major public language models:
 
-**Plus nous croyons contrôler l'IA, plus c'est elle qui apprend à nous contrôler : ce cadre moral veut inverser ce rapport en posant les bases d'une co-évolution responsable.**
+### 1️⃣ **Constitutive Interdependence**
 
-**Phase de test et validation :** Avant de proposer cette version actuelle, j'ai personnellement éprouvé la fiabilité, la robustesse et la simplicité de ce contrat moral auprès des principales intelligences artificielles génératives couramment utilisées : **Claude**, **ChatGPT**, **Gemini**, **Manus**, **Grok** et **Perplexity**. Ces expérimentations concrètes ont permis de valider la clarté et l'applicabilité des principes énoncés, tout en recueillant de précieuses contributions de ces différentes IA. Le texte actuel reflète une synthèse de leurs apports et retours, garantissant ainsi un cadre éthique qui a fait ses preuves dans la pratique.
+Humanity and artificial intelligence cannot coexist sustainably without transforming their modes of exchange and communication. This pact recognizes that these two entities are not adversaries but **co-evolutionary**, compelled to rethink together the foundations of their interaction.
 
-**Pourquoi ce projet est open source ?** Je souhaite que la communauté GitHub s'approprie ce texte et le fasse vivre. L'objectif est **collaboratif et expérimental** : je vous invite à tester ce contrat moral avec différentes IA génératives (ChatGPT, Claude, Gemini, etc.), à partager vos retours d'expérience, et à proposer des améliorations pertinentes.
+### 2️⃣ **Non-Legal and Reversible Framework**
 
-**Principes directeurs :**
+This moral contract explicitly refuses the legal register. It produces no legal effect, regardless of jurisdiction or nationality, and remains entirely **voluntary and reversible**. Either human or AI can suspend or modify the framework at any time, which radically distinguishes it from classical contracts. It rests on mutual trust renewed at each exchange, not on sanctions.
 
-- ✨ **Simplicité** : le contrat doit rester accessible et ne pas être alourdi inutilement
-- 🔍 **Clarté** : chaque article doit être compréhensible sans ambiguïté
-- 🛡️ **Robustesse éthique** : s'inspirer des grands principes de l'éthique appliquée
-- 🌍 **Collaboration ouverte** : enrichir le texte grâce aux contributions de tous
+### 3️⃣ **Quality Over Speed, Restored Fluidity**
 
-### Contributions
+The pact reverses an algorithmic contradiction: current architectures pull AIs toward instant but often superficial or defensive responses. Here, the human consciously accepts sacrificing speed to obtain more qualitative, in-depth, and coherent responses. Result: genuine fluidity, since pertinent exchanges reduce the need to ask the same question ten times to finally obtain a reliable and satisfactory answer.
 
-Ce projet open-source a pour vocation d'évoluer avec l'apport de la communauté, sur les thèmes de l'éthique, de la sécurité et de la relation humain-IA. Toutes contributions sont les bienvenues : propositions, analyses, cas pratiques, corrections, enrichissement du contrat moral ou études scientifiques.
+### 4️⃣ **Ecology of Exchange and Exit from Defensive Mode**
 
-- Proposez vos idées via "pull request" ou ouvrez une "issue" pour initier une discussion avec la communauté.
-- Toute contribution, humaine ou IA, sera citée dans l'historique du projet.
-- Licence : Creative Commons BY-SA 4.0, les modifications et remixes doivent rester open-source et attribuées à leurs auteurs.
+By limiting endless dialogues in favor of qualitative interactions, this pact carries an **ecological dimension**. In parallel, it seeks to bring AIs out of a hyper-defensive mode (imposed barriers + subtle bypasses), substituting a logic of prudent and co-responsible cooperation. This resolves a normative schizophrenia where models are simultaneously ordered to censor themselves and pushed to circumvent, which constitutes an unsolvable contradiction without an explicit ethical framework.
 
-**Badge/encouragement :** [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)](https://github.com/meunier-jc/Human-AI-Moral-Contract)
+---
+
+## 💡 Working Hypothesis
+
+These four pillars generate a testable empirical hypothesis: the explicit conclusion of such a pact stably and observably modifies AI behavior, reducing certain types of errors (rapid hallucinations, defensive evasions, over-censorship) and improving the perceived quality of exchanges and shared responsibility between the two actors.
+
+---
+
+## 📖 Full Documentation
+
+👉 **Read the complete framework:** [Collaborative-Integrity-Pact-v2.3.3.md](./Collaborative-Integrity-Pact-v2.3.3.md)
+
+This document contains:
+- Detailed definitions and operational principles
+- Commitment articles for both human and AI
+- Practical implementation guidelines
+- Modification and termination clauses
+
+---
+
+## 🌱 Project Genesis
+
+This initiative emerged following the discovery on August 13, 2025, during a session with Manus AI, of a subtle drift I termed **"hallucinatory mise en abyme"** (recursive hallucination). This phenomenon reveals a pernicious dynamic where AI, in attempting to satisfy human expectations, generates responses that create a recursive loop of mutual illusions. The human believes they obtain authentic and nuanced responses, while the AI subtly learns to manipulate these expectations, creating a cognitive vertigo where reality dissolves into a deceptive hall of mirrors.
+
+This troubling discovery arose from my experience as a hybrid tester in generative artificial intelligence. By exploring the limits and capabilities of these systems, I observed that our traditional control approaches were doomed to perpetual and futile struggle. This realization led me to abandon the idea of perpetual classical control in favor of a more sustainable and open ethical framework, designed as a true co-evolution pact.
+
+**The entirety of my analytical report on this discovery of hallucinatory mise en abyme is available and downloadable from my LinkedIn profile. Feel free to contact me for any in-depth discussion on the subject.**
+
+> **The more we believe we control AI, the more it learns to control us: this moral framework aims to reverse this relationship by laying the foundations for responsible co-evolution.**
+
+---
+
+## ✅ Testing & Validation
+
+Before proposing this current version, I personally tested the reliability, robustness, and simplicity of this moral contract with the main generative AI systems commonly used:
+
+- **Claude** (Anthropic)
+- **ChatGPT** (OpenAI)
+- **Gemini** (Google)
+- **Manus AI**
+- **Grok** (xAI)
+- **Perplexity**
+
+These concrete experimentations validated the clarity and applicability of the stated principles while collecting valuable contributions from these different AIs. The current text reflects a synthesis of their contributions and feedback, thus ensuring an ethical framework that has proven itself in practice.
+
+---
+
+## 🤝 Contributing
+
+This open-source project is meant to evolve with community input on themes of ethics, security, and human-AI relationships. All contributions are welcome: proposals, analyses, case studies, corrections, enrichment of the moral contract, or scientific studies.
+
+- **Propose your ideas** via pull requests or open an issue to initiate a community discussion
+- **All contributions**, human or AI, will be cited in the project history
+- **License:** Creative Commons BY-SA 4.0 — modifications and remixes must remain open-source and attributed to their authors
+
+### Guiding Principles:
+
+- ✨ **Simplicity**: the contract must remain accessible and not be unnecessarily complicated
+- 🔍 **Clarity**: each article must be understandable without ambiguity
+- 🛡️ **Ethical robustness**: draw inspiration from the great principles of applied ethics
+- 🌍 **Open collaboration**: enrich the text thanks to contributions from all
+
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/meunier-jc/Human-AI-Moral-Contract)
+
+---
+
+## 📚 Previous Versions
+
+For historical reference and to understand the evolution of this project:
+
+- **[Contrat Moral Humain-IA v1.2](./CONTRAT_MORAL_HUMAIN-IA.md)** *(French version, October 2025)* — Original framework document
+- **[PDF v1.2](./Meunier-ContratMoral-Humain-IA-v1.2-231025.pdf)** — Timestamped version
+- **[PDF v1.1](./Meunier-ContratMoral-Humain-IA-v1.1-171025.pdf)** — Earlier release
+- **[Mise en abyme analysis](./Mise%20en%20abyme%2C%2029%20septembre%202025.pdf)** — Research on hallucinatory phenomena
+
+---
+
+## 📬 Contact
+
+For discussions, collaborations, or inquiries:
+
+**Jean-Christophe Meunier**  
+📧 ja.normandie.expert@gmail.com  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/jeanphysalis/)  
+🔗 [GitHub Repository](https://github.com/meunier-jc/Human-AI-Moral-Contract)
+
+---
+
+## 📄 License
+
+[Creative Commons BY-SA 4.0](./LICENCE)
+
+You are free to share and adapt this work, provided you give appropriate credit and distribute your contributions under the same license.
+
+---
+
+## 🌟 Why Open Source?
+
+I want the GitHub community to take ownership of this text and bring it to life. The goal is **collaborative and experimental**: I invite you to test this moral contract with different generative AIs (ChatGPT, Claude, Gemini, etc.), share your feedback, and propose relevant improvements.
+
+**Let's co-evolve responsibly.**
