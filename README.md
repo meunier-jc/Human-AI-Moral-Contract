@@ -102,6 +102,13 @@ This open-source project is meant to evolve with community input on themes of et
 
 For historical reference and to understand the evolution of this project:
 
+### Research Documents
+
+- **[Hallucinatory Mise en Abyme Analysis](./Hallucinatory-Mise-en-Abyme-Analysis-September-2025.md)** *(English version, September 2025)* — In-depth analysis of recursive embedding of hallucinations in generative AI systems
+- **[Mise en abyme analysis (PDF)](./Mise%20en%20abyme%2C%2029%20septembre%202025.pdf)** *(French version, September 2025)* — Original research document on hallucinatory phenomena
+
+### Project Evolution
+
 - **[Contrat Moral Humain-IA v1.2](./CONTRAT_MORAL_HUMAIN-IA.md)** *(French version, October 2025)* — Original framework document
 - **[PDF v1.2](./Meunier-ContratMoral-Humain-IA-v1.2-231025.pdf)** — Timestamped version
 - **[PDF v1.1](./Meunier-ContratMoral-Humain-IA-v1.1-171025.pdf)** — Earlier release
