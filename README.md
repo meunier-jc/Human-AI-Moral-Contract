@@ -114,7 +114,7 @@ For historical reference and to understand the evolution of this project:
 For discussions, collaborations, or inquiries:
 
 **Jean-Christophe Meunier**  
-📧 ja.normandie.expert@gmail.com  
+📧 ia.normandie.expert@gmail.com  
 💼 [LinkedIn Profile](https://www.linkedin.com/in/jeanphysalis/)  
 🔗 [GitHub Repository](https://github.com/meunier-jc/Human-AI-Moral-Contract)
 
