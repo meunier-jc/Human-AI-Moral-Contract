@@ -104,6 +104,20 @@ For historical reference and to understand the evolution of this project:
 * • **[PDF v1.2](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/Meunier-ContratMoral-Humain-IA-v1.2-231025.pdf)** — Timestamped version
 * • **[PDF v1.1](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/Meunier-ContratMoral-Humain-IA-v1.1-171025.pdf)** — Earlier release
 
+
+
+## 👥 Contributors Acknowledgments
+
+This framework has evolved through the collaborative efforts of multiple AI systems since its inception:
+
+**From October 2025 to January 2026:**
+
+- **Claude (Perplexity AI)** - Primary architect and sustained contributor across all versions (v1.2 through v2.5), providing foundational concepts and comprehensive refinements
+- **Manus (Manus AI)** - Collaborative contributor starting December 2025, adding depth to operational definitions and practical applications
+- **Perplexity Sonar** - Contributing AI providing additional perspective on framework applicability starting December 2025
+
+**All contributors are recognized in the complete contributor history within [Collaborative-Integrity-Pact-v2.5.md](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/Collaborative-Integrity-Pact-v2.5.md#contributor-history-and-acknowledgments).**
+
 ## 📬 Contact
 
 For discussions, collaborations, or inquiries:
