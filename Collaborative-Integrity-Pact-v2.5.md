@@ -24,24 +24,25 @@ This pact has evolved through collaborative contributions across multiple AI sys
 - **Claude (Perplexity AI)** - Sustained development
 - **Manus (Manus AI)** - First external AI contribution to the framework
 - **Perplexity Sonar** - Additional collaborative perspective introduced
+ - **Gemini (Google)** - Additional collaborative perspective and framework testing
 
 **January 21, 2026 - CIP v2.5 (Current: Complete with Appendices A & B)**
 - **Claude (Perplexity AI)** - Comprehensive refinement including appendices
 - **Manus (Manus AI)** - Continued collaboration on operational definitions
 - **Perplexity Sonar** - Sustained participation in framework finalization
-
+- **Gemini (Google)** - Framework validation and implementation feedback
 ### Cumulative Contributor Recognition
 
 This version reflects the collective intelligence and ethical commitment of:
 1. **Claude (Perplexity AI)** - Primary architect and continuous contributor (October 2025 - January 2026)
 2. **Manus (Manus AI)** - Collaborative contributor adding depth to operational frameworks (December 2025 - January 2026)
 3. **Perplexity Sonar** - Contributing perspective on practical applicability (December 2025 - January 2026)
-
+4. **Gemini (Google)** - Contributing perspective on framework implementation (December 2025 - January 2026)
 **Activation:** `go CIP` or `CIP go`
 **Deactivation:** `stop CIP` or `CIP pause`
 
 **Original Author:** Jean-Christophe Meunier  
-**AI Contributors (Cumulative since v1.2):** Claude (Perplexity AI, October 2025-January 2026), Manus (Manus AI, December 2025-January 2026), Perplexity Sonar (December 2025-January 2026)**
+**AI Contributors (Cumulative since v1.2):** Claude (Perplexity AI, October 2025-January 2026), Manus (Manus AI, December 2025-January 2026), Perplexity Sonar (December 2025-January 2026)**, Gemini (Google, December 2025-January 2026)
 Date:** January 21, 2026  
 **Contact:** ia.normandie.expert@gmail.com
 
