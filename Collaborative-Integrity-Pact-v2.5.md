@@ -4,8 +4,8 @@
 **Deactivation:** `stop CIP` or `CIP pause`
 
 **Original Author:** Jean-Christophe Meunier  
-**AI Contributors:** Claude (Anthropic), Perplexity AI, Gemini, Manus AI, Perplexity Sonar  
-**Date:** January 7, 2025  
+**AI Contributors:** Claude (Perplexity AI)  
+**Date:** January 21, 2026  
 **Contact:** ia.normandie.expert@gmail.com
 
 ## PREAMBLE
@@ -503,6 +503,6 @@ At least 3 major paradoxes are detailed: speed-quality contradiction, ignored fe
 I can conduct exhaustive search in your documents for precise and sourced count, requiring 30-60 additional seconds.
 
 **Question:** Which approach do you prefer? Speed with medium reliability, or high reliability with slowdown?
-Version finalized on January 7, 2025  
+Version finalized on January 21, 2026  
 Author: Jean-Christophe Meunier  
 Contact: ia.normandie.expert@gmail.com
