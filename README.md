@@ -9,6 +9,7 @@
 The **Collaborative Integrity Pact** (CIP) is a non-binding, reversible ethical framework designed to structure interactions between humans and generative AI systems. This project aims to establish clear, understandable, and applicable principles for responsible collaboration.
 
 **Current Version:** [Collaborative Integrity Pact v2.3.4](./Collaborative-Integrity-Pact-v2.3.4.md) *(December 2025)*
+**Latest Version:** [Collaborative Integrity Pact v2.5](./Collaborative-Integrity-Pact-v2.5.md) *(January 2025)*
 
 ---
 
