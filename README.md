@@ -115,6 +115,7 @@ This framework has evolved through the collaborative efforts of multiple AI syst
 - **Claude (Perplexity AI)** - Primary architect and sustained contributor across all versions (v1.2 through v2.5), providing foundational concepts and comprehensive refinements
 - **Manus (Manus AI)** - Collaborative contributor starting December 2025, adding depth to operational definitions and practical applications
 - **Perplexity Sonar** - Contributing AI providing additional perspective on framework applicability starting December 2025
+- - **Gemini (Google)** - Contributing perspective on framework implementation starting December 2025
 
 **All contributors are recognized in the complete contributor history within [Collaborative-Integrity-Pact-v2.5.md](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/Collaborative-Integrity-Pact-v2.5.md#contributor-history-and-acknowledgments).**
 
