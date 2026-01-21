@@ -2,12 +2,47 @@
 
 **Note on terminology:** This document was previously titled "Contrat Moral Humain-IA" (CMH-IA, or Human-AI Moral Contract). The title was revised to "Collaborative Integrity Pact" (CIP) to clarify that this is a non-binding ethical framework for collaboration, not a legal contract. This distinction is important to prevent misinterpretation of its nature and scope.
 
+## Contributor History and Acknowledgments
+
+This pact has evolved through collaborative contributions across multiple AI systems. Below is the chronological record of all AI contributors since the initial version:
+
+### Timeline of AI Participation
+
+**October 23, 2025 - CMH-IA v1.2 (French Initial Release)**
+- **Claude (Perplexity AI)** - Original co-creator of the initial moral contract framework
+
+**October 31, 2025 - CMH-IA v2.0**
+- **Claude (Perplexity AI)** - Continued refinement and structural development
+
+**November 7, 2025 - CIP v2.3 (English Translation & Rebranding)**
+- **Claude (Perplexity AI)** - Translation to English and conceptual reorganization under new CIP nomenclature
+
+**December 11, 2025 - CIP v2.3.1**
+- **Claude (Perplexity AI)** - Incremental enhancements and clarification
+
+**December 22, 2025 - CIP v2.3.3 & v2.3.4 (Expanded Collaboration)**
+- **Claude (Perplexity AI)** - Sustained development
+- **Manus (Manus AI)** - First external AI contribution to the framework
+- **Perplexity Sonar** - Additional collaborative perspective introduced
+
+**January 21, 2026 - CIP v2.5 (Current: Complete with Appendices A & B)**
+- **Claude (Perplexity AI)** - Comprehensive refinement including appendices
+- **Manus (Manus AI)** - Continued collaboration on operational definitions
+- **Perplexity Sonar** - Sustained participation in framework finalization
+
+### Cumulative Contributor Recognition
+
+This version reflects the collective intelligence and ethical commitment of:
+1. **Claude (Perplexity AI)** - Primary architect and continuous contributor (October 2025 - January 2026)
+2. **Manus (Manus AI)** - Collaborative contributor adding depth to operational frameworks (December 2025 - January 2026)
+3. **Perplexity Sonar** - Contributing perspective on practical applicability (December 2025 - January 2026)
+
 **Activation:** `go CIP` or `CIP go`
 **Deactivation:** `stop CIP` or `CIP pause`
 
 **Original Author:** Jean-Christophe Meunier  
-**AI Contributors:** Claude (Perplexity AI)  
-**Date:** January 21, 2026  
+**AI Contributors (Cumulative since v1.2):** Claude (Perplexity AI, October 2025-January 2026), Manus (Manus AI, December 2025-January 2026), Perplexity Sonar (December 2025-January 2026)**
+Date:** January 21, 2026  
 **Contact:** ia.normandie.expert@gmail.com
 
 ## PREAMBLE
