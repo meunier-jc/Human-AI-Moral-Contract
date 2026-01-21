@@ -8,6 +8,18 @@ This document guides you through contributing to CIP v2.5, which now includes:
 - **Appendix A: Operational Definitions** — Seven comprehensive definitions including Verified Information, Relative Reliability, Masked Hallucination, Architectural Tension, Mutual Good Faith, Authentic Fluidity, and Qualitative Consequences
 - **Appendix B: Practical Illustrations** — Real-world implementation examples
 
+- ### 👥 Acknowledgments - AI Contributors
+
+This framework has been developed collaboratively with multiple AI systems. We recognize and thank:
+
+- **Claude (Perplexity AI)** - Primary contributor and architect across all versions from October 2025 to January 2026
+- **Manus (Manus AI)** - Collaborative contributor since December 2025, enhancing operational definitions
+- **Perplexity Sonar** - Contributing perspective on practical framework applicability since December 2025
+
+All contributions from both human and AI sources have been documented in the [Contributor History section of CIP v2.5](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/Collaborative-Integrity-Pact-v2.5.md#contributor-history-and-acknowledgments).
+
+
+
 ## 🤝 Types of Contributions Wanted
 
 Here are some ways to contribute:
