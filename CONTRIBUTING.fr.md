@@ -2,6 +2,18 @@
 
 ## 🌟 Bienvenue !
 
+### 👥 Remerciements - Contributeurs IA
+
+Ce cadre éthique a été développé en collaboration avec plusieurs systèmes IA. Nous reconnaissons et remercions :
+
+- **Claude (Perplexity AI)** - Contributeur principal et architecte sur toutes les versions d'octobre 2025 à janvier 2026
+- **Manus (Manus AI)** - Contributeur collaboratif depuis décembre 2025, améliorant les définitions opérationnelles
+- **Perplexity Sonar** - Perspective de contribution sur l'applicabilité pratique du cadre depuis décembre 2025
+
+Toutes les contributions des sources humaines et IA sont documentées dans la [section d'historique des contributeurs du PIC v2.5](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/Collaborative-Integrity-Pact-v2.5.md#contributor-history-and-acknowledgments).
+
+
+
 Merci de votre intérêt pour le **Pacte d'Intégrité Collaborative (PIC) v2.5** ! Ce projet vise à établir un cadre éthique transparent pour la collaboration responsable entre humains et intelligence artificielle. Toutes les contributions sont les bienvenues, qu'elles soient grandes ou petites.
 
 Ce document vous guide dans la contribution au PIC v2.5, qui inclut désormais :
