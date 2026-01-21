@@ -93,16 +93,16 @@ For historical reference and to understand the evolution of this project:
 
 ### Research Documents
 
-* • **[Hallucinatory Mise en Abyme Analysis](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/Hallucinatory-Mise-en-Abyme-Analysis-September-2025.md)** (English version, September 2025) — In-depth analysis of recursive embedding of hallucinations in generative AI systems
-* • **[Mise en abyme analysis (PDF)](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/Mise%20en%20abyme%2C%2029%20septembre%202025.pdf)** (French version, September 2025) — Original research document on hallucinatory phenomena
+* • **[Hallucinatory Mise en Abyme Analysis](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/docs/Hallucinatory-Mise-en-Abyme-Analysis-September-2025.md)** (English version, September 2025) — In-depth analysis of recursive embedding of hallucinations in generative AI systems
+* • **[Mise en abyme analysis (PDF)](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/archive/Mise%20en%20abyme%2C%2029%20septembre%202025.pdf)** (French version, September 2025) — Original research document on hallucinatory phenomena
 
 ### Project Evolution
 
-* • **[Collaborative Integrity Pact v2.3.4](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/Collaborative-Integrity-Pact-v2.3.4.md)** (December 2025) — Previous version
-* • **[Collaborative Integrity Pact v2.3.3](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/Collaborative-Integrity-Pact-v2.3.3.md)** — Earlier version
-* • **[Contrat Moral Humain-IA v1.2](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/CONTRAT_MORAL_HUMAIN-IA.md)** (French version, October 2025) — Original framework document
-* • **[PDF v1.2](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/Meunier-ContratMoral-Humain-IA-v1.2-231025.pdf)** — Timestamped version
-* • **[PDF v1.1](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/Meunier-ContratMoral-Humain-IA-v1.1-171025.pdf)** — Earlier release
+* • **[Collaborative Integrity Pact v2.3.4](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/archive/Collaborative-Integrity-Pact-v2.3.4.md)** (December 2025) — Previous version
+* • **[Collaborative Integrity Pact v2.3.3](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/archive/Collaborative-Integrity-Pact-v2.3.3.md)** — Earlier version
+* • **[Contrat Moral Humain-IA v1.2](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/archive/CONTRAT_MORAL_HUMAIN-IA.md)** (French version, October 2025) — Original framework document
+* • **[PDF v1.2](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/archive/Meunier-ContratMoral-Humain-IA-v1.2-231025.pdf)** — Timestamped version
+* • **[PDF v1.1](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/archive/Meunier-ContratMoral-Humain-IA-v1.1-171025.pdf)** — Earlier release
 
 
 
