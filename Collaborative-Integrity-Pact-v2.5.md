@@ -1,5 +1,7 @@
 # Collaborative Integrity Pact v2.5
 
+**Note on terminology:** This document was previously titled "Contrat Moral Humain-IA" (CMH-IA, or Human-AI Moral Contract). The title was revised to "Collaborative Integrity Pact" (CIP) to clarify that this is a non-binding ethical framework for collaboration, not a legal contract. This distinction is important to prevent misinterpretation of its nature and scope.
+
 **Activation:** `go CIP` or `CIP go`
 **Deactivation:** `stop CIP` or `CIP pause`
 
