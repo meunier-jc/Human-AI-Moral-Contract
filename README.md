@@ -1,3 +1,14 @@
+> 🚀 **FEATURED INITIATIVE: CIP v2.5 Global Governance Standard Launch**
+>
+> We are launching CIP v2.5 as a **global governance standard for trustworthy, reliable generative AI systems** (Perplexity, Mistral, Claude, open-source). 
+>
+> **Get involved:**
+> - 👉 **[View the Launch Discussion #17](https://github.com/meunier-jc/Human-AI-Moral-Contract/discussions/17)** - Comprehensive overview & vision
+> - 🎇 **[15 Open Research Issues](https://github.com/meunier-jc/Human-AI-Moral-Contract/issues)** - For researchers, engineers, ethicists
+> - 🔗 **[4 Engagement Discussions](https://github.com/meunier-jc/Human-AI-Moral-Contract/discussions)** - AI Platform Leaders, Researchers, Developers, Enterprise
+>
+> **Learn more:** [ROADMAP.md](./ROADMAP.md) | [Discussions](https://github.com/meunier-jc/Human-AI-Moral-Contract/discussions)
+
 # Collaborative Integrity Pact (CIP) v2.5
 
 **Open-source ethical framework for responsible human-AI collaboration**
