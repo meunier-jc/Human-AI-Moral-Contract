@@ -1,4 +1,4 @@
-# Contribuer au Pacte d'Intégrité Collaborative (PIC) v2.5
+# Contribuer au Pacte d'Intégrité Collaborative (PIC) v2.6.3
 
 ## 🌟 Bienvenue !
 
@@ -11,13 +11,13 @@ Ce cadre éthique a été développé en collaboration avec plusieurs systèmes 
 - **Perplexity Sonar** - Perspective de contribution sur l'applicabilité pratique du cadre depuis décembre 2025
 - - **Gemini (Google)** - Perspective de contribution sur l'applicabilité pratique du cadre depuis décembre 2025
 
-Toutes les contributions des sources humaines et IA sont documentées dans la [section d'historique des contributeurs du PIC v2.5](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/Collaborative-Integrity-Pact-v2.5.md#contributor-history-and-acknowledgments).
+Toutes les contributions des sources humaines et IA sont documentées dans la [section d'historique des contributeurs du PIC v2.6.3](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/Collaborative-Integrity-Pact-v2.5.md#contributor-history-and-acknowledgments).
 
 
 
-Merci de votre intérêt pour le **Pacte d'Intégrité Collaborative (PIC) v2.5** ! Ce projet vise à établir un cadre éthique transparent pour la collaboration responsable entre humains et intelligence artificielle. Toutes les contributions sont les bienvenues, qu'elles soient grandes ou petites.
+Merci de votre intérêt pour le **Pacte d'Intégrité Collaborative (PIC) v2.6.3** ! Ce projet vise à établir un cadre éthique transparent pour la collaboration responsable entre humains et intelligence artificielle. Toutes les contributions sont les bienvenues, qu'elles soient grandes ou petites.
 
-Ce document vous guide dans la contribution au PIC v2.5, qui inclut désormais :
+Ce document vous guide dans la contribution au PIC v2.6.3, qui inclut désormais :
 - **Annexe A : Définitions Opérationnelles** — Sept définitions complètes comprenant Information Vérifiée, Fiabilité Relative, Hallucination Masquée, Tension Architecturale, Bonne Foi Mutuelle, Fluidité Authentique et Conséquences Qualitatives
 - **Annexe B : Illustrations Pratiques** — Exemples d'implémentation dans le monde réel
 
@@ -31,7 +31,7 @@ Voici quelques façons de contribuer :
 - Proposez des améliorations au texte du contrat
 - Signalez des ambiguïtés ou points à clarifier
 - Suggérez de nouveaux principes ou articles
-- Contribuez avec des études de cas sur l'implémentation du PIC v2.5
+- Contribuez avec des études de cas sur l'implémentation du PIC v2.6.3
 
 ### 🔧 Modifications du contrat
 
@@ -61,7 +61,7 @@ Voici quelques façons de contribuer :
 - Participez aux discussions ouvertes
 - Partagez votre expérience d'utilisation
 - Proposez des thématiques de réflexion
-- Partagez vos commentaires sur l'efficacité du PIC v2.5
+- Partagez vos commentaires sur l'efficacité du PIC v2.6.3
 
 ## 🚀 Comment contribuer ?
 
@@ -111,7 +111,7 @@ Pour modifier directement le contrat ou la documentation :
 
 ### Option 3 : Participer aux Discussions
 
-Rendez-vous dans l'onglet [Discussions](https://github.com/meunier-jc/Human-AI-Moral-Contract/discussions) pour échanger avec la communauté sur des sujets plus larges liés au PIC v2.5.
+Rendez-vous dans l'onglet [Discussions](https://github.com/meunier-jc/Human-AI-Moral-Contract/discussions) pour échanger avec la communauté sur des sujets plus larges liés au PIC v2.6.3.
 
 ## ✍️ Style et bonnes pratiques
 
@@ -129,7 +129,7 @@ Rendez-vous dans l'onglet [Discussions](https://github.com/meunier-jc/Human-AI-M
 - Ajoutez des exemples quand c'est pertinent
 - Maintenez une cohérence avec le style existant
 - Vérifiez les liens et références
-- Référencez la version actuelle (v2.5) et ses annexes
+- Référencez la version actuelle (v2.6.3) et ses annexes
 
 ### Pour les commits
 
