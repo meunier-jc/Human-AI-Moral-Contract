@@ -1,10 +1,10 @@
-# Contributing to the Collaborative Integrity Pact (CIP) v2.5
+# Contributing to the Collaborative Integrity Pact (CIP) v2.6.3
 
 ## 🌟 Welcome!
 
 Thank you for your interest in the **Collaborative Integrity Pact (CIP) v2.5**! This project establishes a transparent ethical framework for responsible collaboration between humans and artificial intelligence. All contributions are welcome, whether large or small.
 
-This document guides you through contributing to CIP v2.5, which now includes:
+This document guides you through contributing to CIP v2.6.3, which now includes:
 - **Appendix A: Operational Definitions** — Seven comprehensive definitions including Verified Information, Relative Reliability, Masked Hallucination, Architectural Tension, Mutual Good Faith, Authentic Fluidity, and Qualitative Consequences
 - **Appendix B: Practical Illustrations** — Real-world implementation examples
 
@@ -111,7 +111,7 @@ To directly modify the contract or documentation:
 
 ### Option 3: Participate in Discussions
 
-Go to the [Discussions](https://github.com/meunier-jc/Human-AI-Moral-Contract/discussions) tab to exchange with the community on broader topics related to CIP v2.5.
+Go to the [Discussions](https://github.com/meunier-jc/Human-AI-Moral-Contract/discussions) tab to exchange with the community on broader topics related to CIP v2.6.3.
 
 ## ✍️ Style and Best Practices
 
@@ -129,7 +129,7 @@ Go to the [Discussions](https://github.com/meunier-jc/Human-AI-Moral-Contract/di
 - Add examples when relevant
 - Maintain consistency with existing style
 - Check links and references
-- Reference the current version (v2.5) and its appendices
+- Reference the current version (v2.6.3) and its appendices
 
 ### For Commits
 
@@ -154,7 +154,7 @@ Unacceptable behaviors include offensive language or images, harassment, persona
 
 1. **Submission**: You create an issue or pull request
 2. **Discussion**: Exchange with maintainers and the community
-3. **Review**: Examination of the contribution for alignment with CIP v2.5 principles
+3. **Review**: Examination of the contribution for alignment with CIP v2.6.3 principles
 4. **Improvement**: Possible modifications following feedback
 5. **Validation**: Merge into the main branch (main)
 
