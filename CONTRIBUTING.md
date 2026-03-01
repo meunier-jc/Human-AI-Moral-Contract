@@ -2,7 +2,7 @@
 
 ## 🌟 Welcome!
 
-Thank you for your interest in the **Collaborative Integrity Pact (CIP) v2.5**! This project establishes a transparent ethical framework for responsible collaboration between humans and artificial intelligence. All contributions are welcome, whether large or small.
+Thank you for your interest in the **Collaborative Integrity Pact (CIP) v2.6.3**! This project establishes a transparent ethical framework for responsible collaboration between humans and artificial intelligence. All contributions are welcome, whether large or small.
 
 This document guides you through contributing to CIP v2.6.3, which now includes:
 - **Appendix A: Operational Definitions** — Seven comprehensive definitions including Verified Information, Relative Reliability, Masked Hallucination, Architectural Tension, Mutual Good Faith, Authentic Fluidity, and Qualitative Consequences
@@ -17,7 +17,7 @@ This framework has been developed collaboratively with multiple AI systems. We r
 - **Perplexity Sonar** - Contributing perspective on practical framework applicability since December 2025
 - - **Gemini (Google)** - Contributing perspective on practical framework implementation since December 2025
 
-All contributions from both human and AI sources have been documented in the [Contributor History section of CIP v2.5](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/Collaborative-Integrity-Pact-v2.5.md#contributor-history-and-acknowledgments).
+All contributions from both human and AI sources have been documented in the [Contributor History section of CIP v2.6.3](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/Collaborative-Integrity-Pact-v2.5.md#contributor-history-and-acknowledgments).
 
 
 
@@ -31,7 +31,7 @@ Here are some ways to contribute:
 - Propose improvements to the contract text
 - Report ambiguities or points to clarify
 - Suggest new principles or articles
-- Contribute case studies on CIP v2.5 implementation
+- Contribute case studies on CIP v2.6.3 implementation
 
 ### 🔧 Contract Modifications
 
@@ -61,7 +61,7 @@ Here are some ways to contribute:
 - Participate in open discussions
 - Share your usage experience
 - Propose reflection topics
-- Share feedback on CIP v2.5 effectiveness
+- Share feedback on CIP v2.6.3 effectiveness
 
 ## 🚀 How to Contribute?
 
