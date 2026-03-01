@@ -1,8 +1,9 @@
 > 🚀 **FEATURED INITIATIVE: CIP v2.6.3 Global Governance Standard Launch**
 >
-> We are launching CIP v2.6.3 as a **global governance standard for trustworthy, reliable generative AI systems** (Perplexity, Mistral, Claude, open-source). 
+> We are launching CIP v2.6.3 as a **global governance standard for trustworthy, reliable generative AI systems** (Perplexity, Mistral, Claude, open-source).
 >
 > **Get involved:**
+>
 > - 👉 **[View the Launch Discussion #17](https://github.com/meunier-jc/Human-AI-Moral-Contract/discussions/17)** - Comprehensive overview & vision
 > - 🎇 **[15 Open Research Issues](https://github.com/meunier-jc/Human-AI-Moral-Contract/issues)** - For researchers, engineers, ethicists
 > - 🔗 **[4 Engagement Discussions](https://github.com/meunier-jc/Human-AI-Moral-Contract/discussions)** - AI Platform Leaders, Researchers, Developers, Enterprise
@@ -62,7 +63,7 @@ This open-source project evolves through community contributions.
 
 ## 📚 Project Resources
 
-- **Current Version:** [CIP v2.6.3](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/Collaborative-Integrity-Pact-v2.6.3.md) (January 2026)
+- **Current Version:** [CIP v2.6.3](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/Collaborative-Integrity-Pact-v2.6.3.md) (March 2026)
 - **Research:** [Hallucinatory Mise en Abyme Analysis](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/docs/Hallucinatory-Mise-en-Abyme-Analysis-September-2025.md)
 - **Previous Versions:** [Archive](https://github.com/meunier-jc/Human-AI-Moral-Contract/tree/main/archive)
 - **Roadmap:** [Project roadmap](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/ROADMAP.md)
@@ -80,9 +81,9 @@ This framework has evolved through collaboration with multiple AI systems:
 
 ## 📬 Contact & Collaboration
 
-**Jean-Christophe Meunier**  
-📧 [ia.normandie.expert@gmail.com](mailto:ia.normandie.expert@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/jeanphysalis/)  
+**Jean-Christophe Meunier**
+📧 [ia.normandie.expert@gmail.com](mailto:ia.normandie.expert@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/jean-christophe-meunier-ai-consult/)
 🔗 [GitHub](https://github.com/meunier-jc)
 
 ## 📄 License
