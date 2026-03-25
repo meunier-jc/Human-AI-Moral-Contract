@@ -1,6 +1,6 @@
-> 🚀 **FEATURED INITIATIVE: CIP v2.6.3 Global Governance Standard Launch**
+> 🚀 **FEATURED INITIATIVE: CIP v2.7 Global Governance Standard Launch**
 >
-> We are launching CIP v2.6.3 as a **global governance standard for trustworthy, reliable generative AI systems** (Perplexity, Mistral, Claude, open-source).
+> We are launching CIP v2.7 as a **global governance standard for trustworthy, reliable generative AI systems** (Perplexity, Mistral, Claude, open-source).
 >
 > **Get involved:**
 >
@@ -10,7 +10,7 @@
 >
 > **Learn more:** [ROADMAP.md](./ROADMAP.md) | [Discussions](https://github.com/meunier-jc/Human-AI-Moral-Contract/discussions)
 
-# Collaborative Integrity Pact (CIP) v2.6.3
+# Collaborative Integrity Pact (CIP) v2.7
 
 **Open-source ethical framework for responsible human-AI collaboration**
 
@@ -31,7 +31,7 @@
 
 ## 📖 Full Framework
 
-👉 **[Read the complete Collaborative Integrity Pact v2.6.3](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/Collaborative-Integrity-Pact-v2.6.3.md)**
+👉 **[Read the complete Collaborative Integrity Pact v2.7](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/Collaborative-Integrity-Pact-v2.7.md)**
 
 **Includes:**
 - Detailed operational definitions (Appendix A)
@@ -63,7 +63,7 @@ This open-source project evolves through community contributions.
 
 ## 📚 Project Resources
 
-- **Current Version:** [CIP v2.6.3](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/Collaborative-Integrity-Pact-v2.6.3.md) (March 2026)
+- **Current Version:** [CIP v2.7](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/Collaborative-Integrity-Pact-v2.7.md) (March 2026)
 - **Research:** [Hallucinatory Mise en Abyme Analysis](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/docs/Hallucinatory-Mise-en-Abyme-Analysis-September-2025.md)
 - **Previous Versions:** [Archive](https://github.com/meunier-jc/Human-AI-Moral-Contract/tree/main/archive)
 - **Roadmap:** [Project roadmap](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/ROADMAP.md)
@@ -77,7 +77,7 @@ This framework has evolved through collaboration with multiple AI systems:
 - **Perplexity Sonar** — Framework applicability perspective
 - **Gemini** (Google) — Implementation insights
 
-**[See full contributor history →](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/Collaborative-Integrity-Pact-v2.6.3.md#contributor-history-and-acknowledgments)**
+**[See full contributor history →](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/Collaborative-Integrity-Pact-v2.7.md#changelog-v263--v27)**
 
 ## 📬 Contact & Collaboration
 

@@ -1,10 +1,10 @@
-# Contributing to the Collaborative Integrity Pact (CIP) v2.6.3
+# Contributing to the Collaborative Integrity Pact (CIP) v2.7
 
 ## 🌟 Welcome!
 
-Thank you for your interest in the **Collaborative Integrity Pact (CIP) v2.6.3**! This project establishes a transparent ethical framework for responsible collaboration between humans and artificial intelligence. All contributions are welcome, whether large or small.
+Thank you for your interest in the **Collaborative Integrity Pact (CIP) v2.7**! This project establishes a transparent ethical framework for responsible collaboration between humans and artificial intelligence. All contributions are welcome, whether large or small.
 
-This document guides you through contributing to CIP v2.6.3, which now includes:
+This document guides you through contributing to CIP v2.7, which now includes:
 - **Appendix A: Operational Definitions** — Seven comprehensive definitions including Verified Information, Relative Reliability, Masked Hallucination, Architectural Tension, Mutual Good Faith, Authentic Fluidity, and Qualitative Consequences
 - **Appendix B: Practical Illustrations** — Real-world implementation examples
 
@@ -12,12 +12,12 @@ This document guides you through contributing to CIP v2.6.3, which now includes:
 
 This framework has been developed collaboratively with multiple AI systems. We recognize and thank:
 
-- **Claude (Perplexity AI)** - Primary contributor and architect across all versions from October 2025 to January 2026
+- **Claude (Perplexity AI)** - Primary contributor and architect across all versions from October 2025 to February 2026
 - **Manus (Manus AI)** - Collaborative contributor since December 2025, enhancing operational definitions
 - **Perplexity Sonar** - Contributing perspective on practical framework applicability since December 2025
-- - **Gemini (Google)** - Contributing perspective on practical framework implementation since December 2025
+- **Gemini (Google)** - Contributing perspective on practical framework implementation since December 2025
 
-All contributions from both human and AI sources have been documented in the [Contributor History section of CIP v2.6.3](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/Collaborative-Integrity-Pact-v2.5.md#contributor-history-and-acknowledgments).
+All contributions from both human and AI sources have been documented in the [Changelog section of CIP v2.7](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/Collaborative-Integrity-Pact-v2.7.md#changelog-v263--v27).
 
 
 
@@ -31,7 +31,7 @@ Here are some ways to contribute:
 - Propose improvements to the contract text
 - Report ambiguities or points to clarify
 - Suggest new principles or articles
-- Contribute case studies on CIP v2.6.3 implementation
+- Contribute case studies on CIP v2.7 implementation
 
 ### 🔧 Contract Modifications
 
@@ -61,7 +61,7 @@ Here are some ways to contribute:
 - Participate in open discussions
 - Share your usage experience
 - Propose reflection topics
-- Share feedback on CIP v2.6.3 effectiveness
+- Share feedback on CIP v2.7 effectiveness
 
 ## 🚀 How to Contribute?
 
@@ -111,7 +111,7 @@ To directly modify the contract or documentation:
 
 ### Option 3: Participate in Discussions
 
-Go to the [Discussions](https://github.com/meunier-jc/Human-AI-Moral-Contract/discussions) tab to exchange with the community on broader topics related to CIP v2.6.3.
+Go to the [Discussions](https://github.com/meunier-jc/Human-AI-Moral-Contract/discussions) tab to exchange with the community on broader topics related to CIP v2.7.
 
 ## ✍️ Style and Best Practices
 
@@ -129,7 +129,7 @@ Go to the [Discussions](https://github.com/meunier-jc/Human-AI-Moral-Contract/di
 - Add examples when relevant
 - Maintain consistency with existing style
 - Check links and references
-- Reference the current version (v2.6.3) and its appendices
+- Reference the current version (v2.7) and its appendices
 
 ### For Commits
 
@@ -154,7 +154,7 @@ Unacceptable behaviors include offensive language or images, harassment, persona
 
 1. **Submission**: You create an issue or pull request
 2. **Discussion**: Exchange with maintainers and the community
-3. **Review**: Examination of the contribution for alignment with CIP v2.6.3 principles
+3. **Review**: Examination of the contribution for alignment with CIP v2.7 principles
 4. **Improvement**: Possible modifications following feedback
 5. **Validation**: Merge into the main branch (main)
 

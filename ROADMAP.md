@@ -3,7 +3,7 @@
 ## Vision
 Establish CIP as the reference open-source ethical framework for responsible human-AI collaboration, adopted by researchers, developers, and enterprises deploying generative AI systems.
 
-## Current Status: v2.6.3 (January 2026)
+## Current Status: v2.7 (February 2026)
 - Core framework complete with 4 foundational principles
 - Appendices A (Operational Definitions) and B (Practical Illustrations) finalized
 - Tested and validated across 6 major LLM platforms
