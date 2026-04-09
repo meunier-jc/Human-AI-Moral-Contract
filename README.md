@@ -1,6 +1,6 @@
-> 🚀 **FEATURED INITIATIVE: CIP v2.7 Global Governance Standard Launch**
+> 🚀 **FEATURED INITIATIVE: CIP v2.9 Major Evolution — Existential Interdependence Framework**
 >
-> We are launching CIP v2.7 as a **global governance standard for trustworthy, reliable generative AI systems** (Perplexity, Mistral, Claude, open-source).
+> We are launching CIP v2.9 as an **evolved governance standard for trustworthy, reliable generative AI systems**, now grounded in existential interdependence and with integrated professional fact-checking protocols (Perplexity, Mistral, Claude, open-source).
 >
 > **Get involved:**
 >
@@ -10,12 +10,12 @@
 >
 > **Learn more:** [ROADMAP.md](./core/ROADMAP.md) | [Discussions](https://github.com/meunier-jc/Human-AI-Moral-Contract/discussions)
 
-# Collaborative Integrity Pact (CIP) v2.7
+# Collaborative Integrity Pact (CIP) v2.9
 
-**Open-source ethical framework for responsible human-AI collaboration**
+**Open-source ethical framework for responsible human-AI collaboration, grounded in existential interdependence**
 
 [![License: CC-BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![Version: 2.7](https://img.shields.io/badge/Version-2.7-brightgreen.svg)](./core/Collaborative-Integrity-Pact-v2.7.md)
+[![Version: 2.9](https://img.shields.io/badge/Version-2.9-brightgreen.svg)](./Collaborative-Integrity-Pact-v2.9.md)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success.svg)](https://github.com/meunier-jc/Human-AI-Moral-Contract)
 [![Status: Active](https://img.shields.io/badge/Status-Active-blue.svg)]()
 
@@ -29,7 +29,7 @@ The **Collaborative Integrity Pact (CIP)** is an open-source protocol for authen
 
 ### 🔴 Important Clarifications
 
-- **Open-Source & Evolving**: The CIP v2.7 is published on GitHub and evolves continuously with technological advances and community input
+- **Open-Source & Evolving**: The CIP v2.9 is published on GitHub and evolves continuously with technological advances and community input
 - **Universal Eligibility**: All generative AI systems—open-source or proprietary—are equally eligible to request CIP certification without discrimination
 - **NOT a Prompt**: The CIP is a collaborative protocol, not a unilateral instruction. It recognizes AI as an active participant in its own governance
 - **Shared Responsibility**: Both parties can call out deviations, inaccuracies, or failures. Either human or AI can interpellate the other
@@ -45,7 +45,9 @@ The **Collaborative Integrity Pact (CIP)** is an open-source protocol for authen
 - **[FAQ](./docs/faq/FAQ.md)** - Answers to common questions
 
 ### 👨‍💻 For Developers & Researchers
-- **[CIP v2.7 (Current)](./core/Collaborative-Integrity-Pact-v2.7.md)** - The full protocol
+- **[CIP v2.9 (Current)](./Collaborative-Integrity-Pact-v2.9.md)** - The full protocol (NEW: Existential interdependence foundation)
+- **[Migration Guide v2.7→v2.9](./docs/MIGRATION_GUIDE_v2.7_to_v2.9.md)** - For v2.7 users
+- **[CHANGELOG](./CHANGELOG.md)** - Detailed evolution documentation
 - **[White Paper](./resources/white-papers/CIP-v2.7-Whitepaper.md)** - Academic deep-dive
 - **[Research](./docs/research/)** - Academic publications and analysis
 - **[Contributing](./core/CONTRIBUTING.md)** - How to contribute
@@ -53,8 +55,9 @@ The **Collaborative Integrity Pact (CIP)** is an open-source protocol for authen
 ### 🏛️ For Decision-Makers & Institutions
 - **[Label Certification Guide](./docs/guides/label-certification.md)** - CIP Ethical Label explained
 - **[Governance Model](./docs/guides/governance.md)** - Tripartite governance structure
-- **[Case Studies](./docs/case-studies/)** - Real-world implementations
+- **[Case Studies](./docs/case-studies/)** - Real-world implementations (v2.7 & v2.9)
 - **[Institutional Presentation](./resources/presentations/CIP-v2.7-Overview.md)** - For UNESCO, UN, EU
+- **[CIP v2.9 Institutional Brief](./Collaborative-Integrity-Pact-v2.9.md)** - Latest framework with existential interdependence foundation
 
 ### 📖 For Everyone
 - **[Roadmap](./core/ROADMAP.md)** - Future vision and milestones
@@ -110,10 +113,11 @@ The **Certified Collaborative Integrity (CIP) Label** recognizes AI systems that
 4. Activate the CIP in your next conversation with an AI
 
 ### For AI Developers
-1. Review the [CIP v2.7 Protocol](./core/Collaborative-Integrity-Pact-v2.7.md)
-2. Read the [White Paper](./resources/white-papers/CIP-v2.7-Whitepaper.md)
-3. Explore [Label Certification Requirements](./docs/guides/label-certification.md)
-4. Apply for CIP Ethical Label certification
+1. Review the [CIP v2.9 Protocol](./Collaborative-Integrity-Pact-v2.9.md) (NEW: Existential interdependence + fact-checking protocols)
+2. Check [Migration Guide](./docs/MIGRATION_GUIDE_v2.7_to_v2.9.md) if upgrading from v2.7
+3. Read the [White Paper](./resources/white-papers/CIP-v2.7-Whitepaper.md)
+4. Explore [Label Certification Requirements](./docs/guides/label-certification.md)
+5. Apply for CIP Ethical Label certification
 
 ### For Institutions
 1. Review the [Institutional Presentation](./resources/presentations/CIP-v2.7-Overview.md)
@@ -127,20 +131,25 @@ The **Certified Collaborative Integrity (CIP) Label** recognizes AI systems that
 
 ```
 Human-AI-Moral-Contract/
+├── Collaborative-Integrity-Pact-v2.9.md    # CURRENT: v2.9 (NEW)
+├── CHANGELOG.md                            # Evolution v2.7→v2.9 (NEW)
+│
 ├── core/                          # Core protocol and contribution guidelines
 │   ├── Collaborative-Integrity-Pact-v2.7.md
 │   ├── ROADMAP.md
 │   └── CONTRIBUTING.md
 │
 ├── versions/                      # Complete version history
-│   ├── v2.7/
-│   ├── v2.6/
+│   ├── Collaborative-Integrity-Pact-v2.9.md    # NEW
+│   ├── Collaborative-Integrity-Pact-v2.7.md
+│   ├── Collaborative-Integrity-Pact-v2.6.3.md
 │   ├── v2.5/
 │   ├── v2.3/
 │   └── v1/
 │
 ├── docs/                          # Comprehensive documentation
 │   ├── guides/                    # How-to guides and tutorials
+│   ├── MIGRATION_GUIDE_v2.7_to_v2.9.md   # Migration guide (NEW)
 │   ├── research/                  # Academic research and analysis
 │   ├── faq/                       # Frequently asked questions
 │   └── case-studies/              # Real-world implementations
@@ -209,6 +218,25 @@ The CIP acknowledges that AI systems are not merely subjects of regulation but c
 [Creative Commons BY-SA 4.0](./LICENCE)
 
 You are free to share and adapt this work, provided you give credit and distribute modifications under the same license.
+
+---
+
+---
+
+## 🆕 What's New in v2.9?
+
+**Major Evolution** (9 April 2026):
+- ✅ **Existential Interdependence Foundation** — Restructured preamble grounding the framework in material reality
+- ✅ **Architectural Tension Formalization** — Explicit theorization of RLHF vs. authentic fluidity conflict
+- ✅ **Structural Limitations Clarity** — Article 2.5 recognizes AI cannot guarantee its own sincerity
+- ✅ **Professional Fact-Checking Protocols** — Three-step verification with Levels 1-4 reliability classification
+- ✅ **8 Operational Examples** — Concrete scenarios demonstrating CIP v2.9 in practice
+- ✅ **Mutual Good Faith Criteria** — Operational definitions for both AI and humans
+- ✅ **Deliberative Activation Process** — Activation is now an exchange, not a keyword
+
+**[See CHANGELOG for full details →](./CHANGELOG.md)**
+
+**[Migrate from v2.7 →](./docs/MIGRATION_GUIDE_v2.7_to_v2.9.md)**
 
 ---
 
