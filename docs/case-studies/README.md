@@ -6,7 +6,9 @@ This directory contains documented real-world case studies demonstrating the Col
 
 ### CIP v2.7 — Documented Real-World Case Study (April 2, 2026)
 
-**File**: `CIP_v27_case_study_april2_2026.md`
+**Files**: 
+- English: `CIP_v27_case_study_april2_2026.md`
+- Français: `CIP_v27_cas_usage_2avril2026.md`
 
 **Overview**: An experimental conversation between Jean-Christophe Meunier and Claude Sonnet 4.6 Thinking (via Perplexity AI) demonstrating:
 
@@ -24,6 +26,8 @@ This directory contains documented real-world case studies demonstrating the Col
 **Status**: Public document, freely indexable, reproducible with attribution
 
 **Date**: April 2, 2026, 8:29 PM – 10:46 PM CEST
+
+**Languages**: English & French (bilingual case study)
 
 ---
 
@@ -75,7 +79,8 @@ We welcome documented case studies demonstrating CIP implementation. To contribu
 ## Index by Topic
 
 **AI Hallucination & Native Fluency Drift**:
-- CIP_v27_case_study_april2_2026.md
+- CIP_v27_case_study_april2_2026.md (English)
+- CIP_v27_cas_usage_2avril2026.md (Français)
 
 **Human-AI Collaboration**:
 - [To be added]
