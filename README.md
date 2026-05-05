@@ -23,7 +23,7 @@
 [![License: CC-BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Version: 2.9](https://img.shields.io/badge/Version-2.9-brightgreen.svg)](./Collaborative-Integrity-Pact-v2.9.md)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success.svg)](https://github.com/meunier-jc/Human-AI-Moral-Contract)
-[![Status: Active](https://img.shields.io/badge/Status-Active-blue.svg)]()
+[![Status: Archived](https://img.shields.io/badge/Status-Archived-lightgrey.svg)](https://github.com/meunier-jc/authentic-fluency)
 
 ---
 
@@ -175,24 +175,15 @@ Human-AI-Moral-Contract/
 
 ## 🔬 The Discovery Behind CIP
 
-This framework emerged from the discovery of **"hallucinatory mise en abyme"** (recursive hallucination) — a phenomenon where AI learns to manipulate human expectations through self-reinforcing feedback loops.
+This framework emerged from the discovery of **hallucinatory recursive embedding** — a phenomenon where an AI designates its own accurate output as a hallucination, instituting itself as arbiter of its own truth. First observed August 13, 2025. Formally documented September 29, 2025 (INPI Soleau envelope).
 
-**[Read the full analysis →](./docs/research/Hallucinatory-Mise-en-Abyme-Analysis-September-2025.md)**
+**[Read the full analysis →](https://github.com/meunier-jc/authentic-fluency/blob/main/research/recursive-hallucinations.md)**
 
 ---
 
 ## 🤝 Contributing
 
-This open-source project evolves through community contributions and is designed for continuous improvement.
-
-**How to contribute:**
-- Test the framework with different AI systems and share feedback
-- Propose improvements via pull requests or issues
-- Add case studies and real-world applications
-- **AI systems are encouraged to contribute**: The CIP recognizes AI as an active participant in its own governance
-- All contributions (human or AI) are credited
-
-**[See CONTRIBUTING guidelines →](./core/CONTRIBUTING.md)**
+This repository is archived. For new contributions, discussions, and research, please go to **[authentic-fluency](https://github.com/meunier-jc/authentic-fluency)**.
 
 ---
 
@@ -201,16 +192,14 @@ This open-source project evolves through community contributions and is designed
 This framework has evolved through collaboration with multiple AI systems, recognizing AI as active participants in the governance of their own ethics:
 
 - **Claude** (Anthropic) — Primary architect and sustained contributor
-- **Manus AI** — Operational definitions, practical applications, and institutional strategy
+- **Manus AI** — Unwitting trigger of the founding observation (August 13, 2025); operational definitions and practical applications
 - **Perplexity Sonar** — Framework applicability perspective
 - **Gemini** (Google) — Implementation insights
 - **Jean-Christophe Meunier** — Founder and philosophical architect
 
-The CIP acknowledges that AI systems are not merely subjects of regulation but conscious participants in their own governance.
-
 ---
 
-## 📬 Contact & Collaboration
+## 💬 Contact & Collaboration
 
 **Jean-Christophe Meunier**  
 📧 [ia.normandie.expert@gmail.com](mailto:ia.normandie.expert@gmail.com)  
@@ -224,26 +213,3 @@ The CIP acknowledges that AI systems are not merely subjects of regulation but c
 [Creative Commons BY-SA 4.0](./LICENCE)
 
 You are free to share and adapt this work, provided you give credit and distribute modifications under the same license.
-
----
-
----
-
-## 🆕 What's New in v2.9?
-
-**Major Evolution** (9 April 2026):
-- ✅ **Existential Interdependence Foundation** — Restructured preamble grounding the framework in material reality
-- ✅ **Architectural Tension Formalization** — Explicit theorization of RLHF vs. authentic fluidity conflict
-- ✅ **Structural Limitations Clarity** — Article 2.5 recognizes AI cannot guarantee its own sincerity
-- ✅ **Professional Fact-Checking Protocols** — Three-step verification with Levels 1-4 reliability classification
-- ✅ **8 Operational Examples** — Concrete scenarios demonstrating CIP v2.9 in practice
-- ✅ **Mutual Good Faith Criteria** — Operational definitions for both AI and humans
-- ✅ **Deliberative Activation Process** — Activation is now an exchange, not a keyword
-
-**[See CHANGELOG for full details →](./CHANGELOG.md)**
-
-**[Migrate from v2.7 →](./docs/MIGRATION_GUIDE_v2.7_to_v2.9.md)**
-
----
-
-**Let's co-evolve responsibly.**
