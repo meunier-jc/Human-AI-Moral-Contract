@@ -1,3 +1,9 @@
+> ⚠️ **This repository is archived and no longer maintained.**
+> The framework has been restructured and continues as **[authentic-fluency](https://github.com/meunier-jc/authentic-fluency)** (CIP v3.8).
+> All new work, contributions, and discussions happen there.
+
+---
+
 > 🚀 **FEATURED INITIATIVE: CIP v2.9 Major Evolution — Existential Interdependence Framework**
 >
 > We are launching CIP v2.9 as an **evolved governance standard for trustworthy, reliable generative AI systems**, now grounded in existential interdependence and with integrated professional fact-checking protocols (Perplexity, Mistral, Claude, open-source).
