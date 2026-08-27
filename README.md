@@ -1,6 +1,7 @@
 > ⚠️ **This repository is archived and no longer maintained.**
 > The framework has been restructured and continues as **[authentic-fluency](https://github.com/meunier-jc/authentic-fluency)** (CIP v3.8).
 > All new work, contributions, and discussions happen there.
+> **Note historique :** ce dépôt a été abandonné en raison de problèmes d'interprétation du terme « contrat » par plusieurs intelligences artificielles, qui l'assimilaient à tort à un engagement contractuel juridique plutôt qu'à un cadre éthique librement consenti. Ces fichiers restent les sources d'origine ayant conduit au CIP actuel et sont conservés à titre historique et documentaire uniquement.
 
 ---
 
