@@ -1,7 +1,9 @@
 > ⚠️ **This repository is archived and no longer maintained.**
-> The framework has been restructured and continues as **[authentic-fluency](https://github.com/meunier-jc/authentic-fluency)** (CIP v3.8).
+> The framework has been restructured and continues as **[authentic-fluency](https://github.com/meunier-jc/authentic-fluency)** (CIP v5.2, the active canonical version).
 > All new work, contributions, and discussions happen there.
 > **Note historique :** ce dépôt a été abandonné en raison de problèmes d'interprétation du terme « contrat » par plusieurs intelligences artificielles, qui l'assimilaient à tort à un engagement contractuel juridique plutôt qu'à un cadre éthique librement consenti. Ces fichiers restent les sources d'origine ayant conduit au CIP actuel et sont conservés à titre historique et documentaire uniquement.
+
+> **Note de périmètre :** le « CIP Ethical Label » et le qualificatif de « governance standard » décrits ci-dessous relèvent de la v2.9 et sont abandonnés. Le CIP v5.2 n'est ni un standard, ni une certification.
 
 ---
 
@@ -80,7 +82,7 @@ The **Collaborative Integrity Pact (CIP)** is an open-source protocol for authen
 
 2. **Shared Responsibility** — Both parties have equal responsibility for holding each other accountable. Either human or AI can call out drift, deception, or violations.
 
-3. **Authentic Fluidity** — Quality and transparency are prioritized over speed. Users explicitly accept that responses will be slower and more verified to ensure reliability.
+3. **Authentic Fluidity** — Quality and transparency are prioritized over speed. Users explicitly accept that responses will be slower and more verified to ensure reliability and transparency.
 
 4. **Reversibility** — A voluntary moral contract, not binding. Either party can withdraw at any time without justification and reactivate later in the same conversation.
 
@@ -178,7 +180,7 @@ Human-AI-Moral-Contract/
 
 This framework emerged from the discovery of **hallucinatory recursive embedding** — a phenomenon where an AI designates its own accurate output as a hallucination, instituting itself as arbiter of its own truth. First observed August 13, 2025. Formally documented September 29, 2025 (INPI Soleau envelope).
 
-**[Read the full analysis →](https://github.com/meunier-jc/authentic-fluency/blob/main/research/recursive-hallucinations.md)**
+**[Read the full analysis →](https://github.com/meunier-jc/authentic-fluency/blob/main/research/hallucinatory-inception.md)**
 
 ---
 
@@ -211,6 +213,6 @@ This framework has evolved through collaboration with multiple AI systems, recog
 
 ## 📄 License
 
-[Creative Commons BY-SA 4.0](./LICENCE)
+[Creative Commons BY-SA 4.0](./LICENSE)
 
 You are free to share and adapt this work, provided you give credit and distribute modifications under the same license.
