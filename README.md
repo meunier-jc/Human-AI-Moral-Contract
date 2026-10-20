@@ -5,19 +5,9 @@
 
 > **Note de périmètre :** le « CIP Ethical Label » et le qualificatif de « governance standard » décrits ci-dessous relèvent de la v2.9 et sont abandonnés. Le CIP v5.2 n'est ni un standard, ni une certification.
 
----
+> **Note historique (2026-10-20) :** le bloc promotionnel « CIP v2.9 Major Evolution » et les liens vers les discussions et issues associées (Launch Discussion #17, 15 Open Research Issues, 4 Engagement Discussions) ont été retirés : ce dépôt étant archivé, ces ressources ne sont plus maintenues. Les liens de navigation pointant vers des fichiers inexistants (`docs/guides/`, `docs/faq/`, `resources/white-papers/`, `resources/presentations/`) ont été corrigés ou retirés pour refléter l'arborescence réelle.
 
-> 🚀 **FEATURED INITIATIVE: CIP v2.9 Major Evolution — Existential Interdependence Framework**
->
-> We are launching CIP v2.9 as an **evolved governance standard for trustworthy, reliable generative AI systems**, now grounded in existential interdependence and with integrated professional fact-checking protocols (Perplexity, Mistral, Claude, open-source).
->
-> **Get involved:**
->
-> - 👉 **[View the Launch Discussion #17](https://github.com/meunier-jc/Human-AI-Moral-Contract/discussions/17)** - Comprehensive overview & vision
-> - 🎇 **[15 Open Research Issues](https://github.com/meunier-jc/Human-AI-Moral-Contract/issues)** - For researchers, engineers, ethicists
-> - 🔗 **[4 Engagement Discussions](https://github.com/meunier-jc/Human-AI-Moral-Contract/discussions)** - AI Platform Leaders, Researchers, Developers, Enterprise
->
-> **Learn more:** [ROADMAP.md](./core/ROADMAP.md) | [Discussions](https://github.com/meunier-jc/Human-AI-Moral-Contract/discussions)
+---
 
 # Collaborative Integrity Pact (CIP) v2.9
 
@@ -48,24 +38,15 @@ The **Collaborative Integrity Pact (CIP)** is an open-source protocol for authen
 
 ## 📚 Quick Navigation
 
-### 🆕 For First-Time Visitors
-- **[Getting Started Guide](./docs/guides/getting-started.md)** - Learn the basics in 5 minutes
-- **[What is the CIP?](./docs/guides/how-to-use-cip.md)** - Detailed explanation
-- **[FAQ](./docs/faq/FAQ.md)** - Answers to common questions
-
 ### 👨‍💻 For Developers & Researchers
-- **[CIP v2.9 (Current)](./Collaborative-Integrity-Pact-v2.9.md)** - The full protocol (NEW: Existential interdependence foundation)
+- **[CIP v2.9 (Current)](./Collaborative-Integrity-Pact-v2.9.md)** - The full protocol (existential interdependence foundation)
 - **[Migration Guide v2.7→v2.9](./docs/MIGRATION_GUIDE_v2.7_to_v2.9.md)** - For v2.7 users
 - **[CHANGELOG](./CHANGELOG.md)** - Detailed evolution documentation
-- **[White Paper](./resources/white-papers/CIP-v2.7-Whitepaper.md)** - Academic deep-dive
 - **[Research](./docs/research/)** - Academic publications and analysis
 - **[Contributing](./core/CONTRIBUTING.md)** - How to contribute
 
 ### 🏛️ For Decision-Makers & Institutions
-- **[Label Certification Guide](./docs/guides/label-certification.md)** - CIP Ethical Label explained
-- **[Governance Model](./docs/guides/governance.md)** - Tripartite governance structure
 - **[Case Studies](./docs/case-studies/)** - Real-world implementations (v2.7 & v2.9)
-- **[Institutional Presentation](./resources/presentations/CIP-v2.7-Overview.md)** - For UNESCO, UN, EU
 - **[CIP v2.9 Institutional Brief](./Collaborative-Integrity-Pact-v2.9.md)** - Latest framework with existential interdependence foundation
 
 ### 📖 For Everyone
@@ -92,6 +73,8 @@ The **Collaborative Integrity Pact (CIP)** is an open-source protocol for authen
 
 The **Certified Collaborative Integrity (CIP) Label** recognizes AI systems that demonstrate exemplary adherence to CIP principles.
 
+> **Note :** cette section décrit le programme « CIP Ethical Label » de la v2.9, abandonné dans le CIP v5.2 (voir « Note de périmètre » en tête de document).
+
 ### Three Certification Levels
 
 | Level | Name | Meaning |
@@ -109,30 +92,20 @@ The **Certified Collaborative Integrity (CIP) Label** recognizes AI systems that
 ✅ **Proportionate Sanctions** : 6-month suspension, 12-month retraction, or permanent exclusion  
 ✅ **Sycophancy Detection** : Natural selection mechanism ensures authenticity  
 
-**[Learn more about the CIP Label →](./docs/guides/label-certification.md)**
-
 ---
 
 ## 🚀 Getting Started
 
-### For Users
-1. Read the [Getting Started Guide](./docs/guides/getting-started.md)
-2. Explore [How to Use the CIP](./docs/guides/how-to-use-cip.md)
-3. Check the [FAQ](./docs/faq/FAQ.md) for your questions
-4. Activate the CIP in your next conversation with an AI
+> **Note :** les guides d'introduction historiques (`docs/guides/`, `docs/faq/`) ne sont plus présents dans ce dépôt archivé. Pour une introduction au CIP actuel (v5.2), consultez le README du dépôt [authentic-fluency](https://github.com/meunier-jc/authentic-fluency).
 
 ### For AI Developers
-1. Review the [CIP v2.9 Protocol](./Collaborative-Integrity-Pact-v2.9.md) (NEW: Existential interdependence + fact-checking protocols)
+1. Review the [CIP v2.9 Protocol](./Collaborative-Integrity-Pact-v2.9.md) (existential interdependence + fact-checking protocols)
 2. Check [Migration Guide](./docs/MIGRATION_GUIDE_v2.7_to_v2.9.md) if upgrading from v2.7
-3. Read the [White Paper](./resources/white-papers/CIP-v2.7-Whitepaper.md)
-4. Explore [Label Certification Requirements](./docs/guides/label-certification.md)
-5. Apply for CIP Ethical Label certification
+3. Explore [Case Studies](./docs/case-studies/)
 
 ### For Institutions
-1. Review the [Institutional Presentation](./resources/presentations/CIP-v2.7-Overview.md)
-2. Study the [Governance Model](./docs/guides/governance.md)
-3. Examine [Case Studies](./docs/case-studies/)
-4. Contact us for partnership opportunities
+1. Examine [Case Studies](./docs/case-studies/)
+2. Contact us for partnership opportunities
 
 ---
 
@@ -140,8 +113,11 @@ The **Certified Collaborative Integrity (CIP) Label** recognizes AI systems that
 
 ```
 Human-AI-Moral-Contract/
-├── Collaborative-Integrity-Pact-v2.9.md    # CURRENT: v2.9 (NEW)
-├── CHANGELOG.md                            # Evolution v2.7→v2.9 (NEW)
+├── Collaborative-Integrity-Pact-v2.9.md    # v2.9
+├── Collaborative-Integrity-Pact-v2.7.md
+├── Collaborative-Integrity-Pact-v2.6.3.md
+├── Collaborative-Integrity-Pact-v2.5.md
+├── CHANGELOG.md                            # Evolution v2.7→v2.9
 │
 ├── core/                          # Core protocol and contribution guidelines
 │   ├── Collaborative-Integrity-Pact-v2.7.md
@@ -149,29 +125,27 @@ Human-AI-Moral-Contract/
 │   └── CONTRIBUTING.md
 │
 ├── versions/                      # Complete version history
-│   ├── Collaborative-Integrity-Pact-v2.9.md    # NEW
+│   ├── Collaborative-Integrity-Pact-v2.9.md
+│   ├── CIP-v2.9-EN.md
 │   ├── Collaborative-Integrity-Pact-v2.7.md
 │   ├── Collaborative-Integrity-Pact-v2.6.3.md
-│   ├── v2.5/
-│   ├── v2.3/
-│   └── v1/
+│   ├── Collaborative-Integrity-Pact-v3.5.md / v3.5.en.md
+│   ├── Collaborative-Integrity-Pact-v3.6.md
+│   ├── v2.5/ · v2.3/ · v1/
 │
-├── docs/                          # Comprehensive documentation
-│   ├── guides/                    # How-to guides and tutorials
-│   ├── MIGRATION_GUIDE_v2.7_to_v2.9.md   # Migration guide (NEW)
+├── docs/                          # Documentation
+│   ├── MIGRATION_GUIDE_v2.7_to_v2.9.md
+│   ├── Hallucinatory-Mise-en-Abyme-Analysis-September-2025.md
 │   ├── research/                  # Academic research and analysis
-│   ├── faq/                       # Frequently asked questions
 │   └── case-studies/              # Real-world implementations
 │
-├── resources/                     # Institutional resources
-│   ├── presentations/             # Slide decks and presentations
-│   ├── white-papers/              # Academic white papers
-│   ├── templates/                 # Agreement templates
-│   └── media/                     # Visual assets
+├── resources/                     # Institutional resources (README)
 │
 └── archive/                       # Historical documents
-    ├── v1-documents/              # Version 1 documents
-    └── mise-en-abyme/             # Research archives
+    ├── CONTRAT_MORAL_HUMAIN-IA.md
+    ├── Collaborative-Integrity-Pact-v2.3.3.md / v2.3.4.md
+    ├── v1-documents/              # Version 1 documents (PDF + OpenTimestamps)
+    └── Mise en abyme, 29 septembre 2025.pdf
 ```
 
 ---
