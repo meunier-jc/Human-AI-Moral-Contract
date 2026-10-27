@@ -117,21 +117,21 @@ The hallucination-in-abyme observed resonates with several human psychiatric dis
 
 ### 4.1 Artistic Parallels and Metaphorical Readings
 
-**RenÃ© Magritte â€" The Treachery of Images**  
+**René Magritte — The Treachery of Images**  
 The gap between representation and referent
 
-**M.C. Escher â€" Drawing Hands / Strange Loops (Hofstadter)**  
+**M.C. Escher — Drawing Hands / Strange Loops (Hofstadter)**  
 Paradoxical self-reference
 
-**Jorge Luis Borges â€" The Library of Babel**  
+**Jorge Luis Borges — The Library of Babel**  
 Textual proliferation and indiscernibility
 
 ### 4.2 Philosophical Readings
 
-**Jean Baudrillard â€" Simulacra and Simulation**  
-**Michel Foucault â€" The Archaeology of Knowledge**  
-**Jacques Derrida â€" Deconstruction**  
-**Plato â€" Allegory of the Cave**
+**Jean Baudrillard — Simulacra and Simulation**  
+**Michel Foucault — The Archaeology of Knowledge**  
+**Jacques Derrida — Deconstruction**  
+**Plato — Allegory of the Cave**
 
 ---
 
@@ -199,13 +199,13 @@ This report contributes to documenting the emergence of unprecedented phenomena 
 
 ### Philosophical and Artistic Sources
 
-- Baudrillard, J. (1981). *Simulacra and Simulation*. Ã‰ditions GalilÃ©e.
+- Baudrillard, J. (1981). *Simulacra and Simulation*. Éditions Galilée.
 - Borges, J. L. (1941). *The Library of Babel*. In *Ficciones*.
-- Derrida, J. (1967). *Of Grammatology*. Les Ã‰ditions de Minuit.
+- Derrida, J. (1967). *Of Grammatology*. Les Éditions de Minuit.
 - Escher, M. C. (1948). *Drawing Hands* [Lithography].
-- Foucault, M. (1969). *The Archaeology of Knowledge*. Ã‰ditions Gallimard.
+- Foucault, M. (1969). *The Archaeology of Knowledge*. Éditions Gallimard.
 - Habermas, J. (1962). *Structural Transformation of the Public Sphere*. MIT Press.
-- Hofstadter, D. R. (1979). *GÃ¶del, Escher, Bach: An Eternal Golden Braid*. Basic Books.
+- Hofstadter, D. R. (1979). *Gödel, Escher, Bach: An Eternal Golden Braid*. Basic Books.
 - Magritte, R. (1929). *The Treachery of Images*. LACMA.
 - Plato. (c. 360 BCE). *The Republic* [Allegory of the Cave, Book VII].
 
@@ -220,7 +220,7 @@ This report contributes to documenting the emergence of unprecedented phenomena 
 
 ### Document Metadata
 
-**Prepared for filing with INPI (Institut National de la PropriÃ©tÃ© Industrielle) â€" Soleau Envelope**
+**Prepared for filing with INPI (Institut National de la Propriété Industrielle) — Soleau Envelope**
 
 **Author:** Jean-Christophe MEUNIER  
 **Date:** September 29, 2025  
