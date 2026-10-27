@@ -13,7 +13,6 @@ Original version 1 documents and related materials:
 ### 📄 Root of this directory
 - **Meunier-ContratMoral-Humain-IA-v1.1-171025.pdf** - Version 1.1 (October 17, 2025)
 - **Mise en abyme, 29 septembre 2025.pdf** - Original research paper on hallucinatory mise en abyme
-- **CONTRAT_MORAL_HUMAIN-IA.md** - Original French concept document
 - **Collaborative-Integrity-Pact-v2.3.3.md / v2.3.4.md** - Early framework versions
 
 ---
@@ -56,10 +55,11 @@ These documents represent the evolution of the CIP from its original concept to 
 
 - All archived documents are preserved in their original format
 - Previous versions are available in the `versions/` directory with updated formatting
+- The original French concept document `CONTRAT_MORAL_HUMAIN-IA.md` (duplicate of `versions/v1/`) was removed on October 27, 2026; the corrected canonical copy is `versions/v1/CONTRAT_MORAL_HUMAIN-IA.md`
 - This repository is archived: for any current use, refer to **CIP v5.2** in [authentic-fluency](https://github.com/meunier-jc/authentic-fluency)
 - Archived materials are maintained for historical and research purposes only
 
 ---
 
-**Last Updated**: October 20, 2026  
+**Last Updated**: October 27, 2026  
 **Archive Status**: Complete & Preserved
