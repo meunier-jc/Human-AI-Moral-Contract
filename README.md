@@ -7,6 +7,8 @@
 
 > **Note historique (2026-10-20) :** le bloc promotionnel « CIP v2.9 Major Evolution » et les liens vers les discussions et issues associées (Launch Discussion #17, 15 Open Research Issues, 4 Engagement Discussions) ont été retirés : ce dépôt étant archivé, ces ressources ne sont plus maintenues. Les liens de navigation pointant vers des fichiers inexistants (`docs/guides/`, `docs/faq/`, `resources/white-papers/`, `resources/presentations/`) ont été corrigés ou retirés pour refléter l'arborescence réelle.
 
+> **Note structurelle (2026-10-27) :** les doublons des versions CIP (v2.5, v2.6.3, v2.7, v2.9) présents à la racine ont été supprimés ; chaque version canonique est conservée dans `versions/`. Les liens ci-dessous ont été mis à jour en conséquence.
+
 ---
 
 # Collaborative Integrity Pact (CIP) v2.9
@@ -14,7 +16,7 @@
 **Open-source ethical framework for responsible human-AI collaboration, grounded in existential interdependence**
 
 [![License: CC-BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![Version: 2.9](https://img.shields.io/badge/Version-2.9-brightgreen.svg)](./Collaborative-Integrity-Pact-v2.9.md)
+[![Version: 2.9](https://img.shields.io/badge/Version-2.9-brightgreen.svg)](./versions/Collaborative-Integrity-Pact-v2.9.md)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success.svg)](https://github.com/meunier-jc/Human-AI-Moral-Contract)
 [![Status: Archived](https://img.shields.io/badge/Status-Archived-lightgrey.svg)](https://github.com/meunier-jc/authentic-fluency)
 
@@ -39,7 +41,7 @@ The **Collaborative Integrity Pact (CIP)** is an open-source protocol for authen
 ## 📚 Quick Navigation
 
 ### 👨‍💻 For Developers & Researchers
-- **[CIP v2.9 (Current)](./Collaborative-Integrity-Pact-v2.9.md)** - The full protocol (existential interdependence foundation)
+- **[CIP v2.9 (Current)](./versions/Collaborative-Integrity-Pact-v2.9.md)** - The full protocol (existential interdependence foundation)
 - **[Migration Guide v2.7→v2.9](./docs/MIGRATION_GUIDE_v2.7_to_v2.9.md)** - For v2.7 users
 - **[CHANGELOG](./CHANGELOG.md)** - Detailed evolution documentation
 - **[Research](./docs/research/)** - Academic publications and analysis
@@ -47,7 +49,7 @@ The **Collaborative Integrity Pact (CIP)** is an open-source protocol for authen
 
 ### 🏛️ For Decision-Makers & Institutions
 - **[Case Studies](./docs/case-studies/)** - Real-world implementations (v2.7 & v2.9)
-- **[CIP v2.9 Institutional Brief](./Collaborative-Integrity-Pact-v2.9.md)** - Latest framework with existential interdependence foundation
+- **[CIP v2.9 Institutional Brief](./versions/Collaborative-Integrity-Pact-v2.9.md)** - Latest framework with existential interdependence foundation
 
 ### 📖 For Everyone
 - **[Roadmap](./core/ROADMAP.md)** - Future vision and milestones
@@ -99,7 +101,7 @@ The **Certified Collaborative Integrity (CIP) Label** recognizes AI systems that
 > **Note :** les guides d'introduction historiques (`docs/guides/`, `docs/faq/`) ne sont plus présents dans ce dépôt archivé. Pour une introduction au CIP actuel (v5.2), consultez le README du dépôt [authentic-fluency](https://github.com/meunier-jc/authentic-fluency).
 
 ### For AI Developers
-1. Review the [CIP v2.9 Protocol](./Collaborative-Integrity-Pact-v2.9.md) (existential interdependence + fact-checking protocols)
+1. Review the [CIP v2.9 Protocol](./versions/Collaborative-Integrity-Pact-v2.9.md) (existential interdependence + fact-checking protocols)
 2. Check [Migration Guide](./docs/MIGRATION_GUIDE_v2.7_to_v2.9.md) if upgrading from v2.7
 3. Explore [Case Studies](./docs/case-studies/)
 
@@ -113,10 +115,6 @@ The **Certified Collaborative Integrity (CIP) Label** recognizes AI systems that
 
 ```
 Human-AI-Moral-Contract/
-├── Collaborative-Integrity-Pact-v2.9.md    # v2.9
-├── Collaborative-Integrity-Pact-v2.7.md
-├── Collaborative-Integrity-Pact-v2.6.3.md
-├── Collaborative-Integrity-Pact-v2.5.md
 ├── CHANGELOG.md                            # Evolution v2.7→v2.9
 │
 ├── core/                          # Core protocol and contribution guidelines
@@ -127,15 +125,12 @@ Human-AI-Moral-Contract/
 ├── versions/                      # Complete version history
 │   ├── Collaborative-Integrity-Pact-v2.9.md
 │   ├── CIP-v2.9-EN.md
-│   ├── Collaborative-Integrity-Pact-v2.7.md
-│   ├── Collaborative-Integrity-Pact-v2.6.3.md
 │   ├── Collaborative-Integrity-Pact-v3.5.md / v3.5.en.md
 │   ├── Collaborative-Integrity-Pact-v3.6.md
-│   ├── v2.5/ · v2.3/ · v1/
+│   ├── v2.7/ · v2.6/ · v2.5/ · v2.3/ · v1/
 │
 ├── docs/                          # Documentation
 │   ├── MIGRATION_GUIDE_v2.7_to_v2.9.md
-│   ├── Hallucinatory-Mise-en-Abyme-Analysis-September-2025.md
 │   ├── research/                  # Academic research and analysis
 │   └── case-studies/              # Real-world implementations
 │
