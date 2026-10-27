@@ -34,7 +34,7 @@ Si vous souhaitez soumettre des modifications directes au projet (corrections de
 
 Avant de soumettre une PR, veuillez :
 
-*   Lire notre [guide de contribution](CONTRIBUTING.md).
+*   Lire notre [guide de contribution](core/CONTRIBUTING.md).
 *   Utiliser le modèle de Pull Request pour décrire vos changements.
 *   Vous assurer que vos modifications sont conformes à notre [Code de Conduite](CODE_OF_CONDUCT.md).
 
