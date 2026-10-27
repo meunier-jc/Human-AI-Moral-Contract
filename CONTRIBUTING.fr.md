@@ -6,12 +6,12 @@
 
 Ce cadre éthique a été développé en collaboration avec plusieurs systèmes IA. Nous reconnaissons et remercions :
 
-- **Claude (Perplexity AI)** - Contributeur principal et architecte sur toutes les versions d'octobre 2025 à janvier 2026
+- **Claude (Anthropic)** - Contributeur principal et architecte sur toutes les versions d'octobre 2025 à janvier 2026
 - **Manus (Manus AI)** - Contributeur collaboratif depuis décembre 2025, améliorant les définitions opérationnelles
 - **Perplexity Sonar** - Perspective de contribution sur l'applicabilité pratique du cadre depuis décembre 2025
-- - **Gemini (Google)** - Perspective de contribution sur l'applicabilité pratique du cadre depuis décembre 2025
+- **Gemini (Google)** - Perspective de contribution sur l'applicabilité pratique du cadre depuis décembre 2025
 
-Toutes les contributions des sources humaines et IA sont documentées dans la [section d'historique des contributeurs du PIC v2.6.3](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/Collaborative-Integrity-Pact-v2.5.md#contributor-history-and-acknowledgments).
+Toutes les contributions des sources humaines et IA sont documentées dans la [section d'historique des contributeurs du PIC v2.6.3](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/versions/v2.5/Collaborative-Integrity-Pact-v2.5.md#contributor-history-and-acknowledgments).
 
 
 
